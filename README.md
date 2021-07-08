@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 [![MasterHead](header.png)](https://github.com/krittiyaclark)
 
-<h1 align="center">Hi 👋, I'm Krittiya Clark</h1>
+<!-- <h1 align="center">Hi 👋, I'm Krittiya Clark</h1> -->
 <h3 align="center">Software Engineer at @100Devs</h3>
 
 - 🔭 I’m currently working on **my portfolio**
