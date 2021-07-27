@@ -21,11 +21,11 @@
 - ⚡ Fun fact **I drink green tea**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/krittiyaclark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krittiyaclark" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krittiya-clark-front-end" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krittiya-clark-front-end" height="30" width="40" /></a>
-<a href="https://fb.com/krittiya.clark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krittiya.clark" height="30" width="40" /></a>
-</p>
+<div align="center">
+<a href="https://twitter.com/krittiyaclark" target="blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter /></a>
+<a href="https://linkedin.com/in/krittiya-clark-front-end" target="blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github /></a>
+<a href="https://fb.com/krittiya.clark" target="blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  /></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
