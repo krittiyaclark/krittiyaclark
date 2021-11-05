@@ -4,7 +4,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Krittiya Clark</h1> -->
 <h3 align="center">Software Engineer at @100Devs</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **Storybook**
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -13,6 +13,8 @@
 - 🤝 I’m looking for help with **a new job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krittiyaclark](https://github.com/krittiyaclark)
+
+- 💼 Visite my portfoilo [krittiya-clark](https://krittiya-clark.netlify.app)
 
 - 💬 Ask me about **React, Gatsby**
 
