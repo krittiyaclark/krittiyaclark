@@ -4,8 +4,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Krittiya Clark</h1> -->
 <h3 align="center">Software Engineer at @100Devs</h3>
 
-- 🔭 I’m currently working on **Storybook**
-
 - 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **pair programming**
